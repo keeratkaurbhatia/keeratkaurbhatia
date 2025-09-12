@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header with purple aesthetic -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=hi,%20i'm%20keerat%20🌙&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✧%20dreaming%20in%20algorithms%20and%20stardust%20✧&descAlignY=55&descSize=18&theme=jolly"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=hi,%20i'm%20keerat%20🌙&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&theme=jolly"/>
 
 </div>
 
@@ -27,8 +27,19 @@
     🌙 currently: building side projects between assignments
 ```
 
-<div align="center">
 
+
+<div align="center">
+✧ manifesting ✧
+javascriptconst currentGoals = {
+    learning: ["backend development", "dsa", "ui/ux principles"],
+    building: ["cool side projects", "aesthetic readmes"],
+    seeking: ["internship opportunities", "collaboration", "creative projects"]
+}
+
+// TODO: build something that makes people go "whoa" ✨
+</div>
+<div align="center">
 ---
 
 ### 📊 ✧ github aura ✧
@@ -62,7 +73,7 @@
 
 <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="250"/>
 
-> *crafting digital dreams one commit at a time* ✧
+> *sometimes i push code, sometimes i just push my luck* 
 
 </div>
 
@@ -70,8 +81,8 @@
 
 <div align="center">
 
-*✧ woven with midnight inspiration and cosmic curiosity ✧*
+*✧ powered by curiosity (and occasional facepalms) :] ✧*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=100&section=footer&animation=twinkling&theme=jolly"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&theme=jolly"/>
 
 </div>
