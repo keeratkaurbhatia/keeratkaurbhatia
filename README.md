@@ -21,9 +21,10 @@
 </div>
 
 ```              
-    studying: computer science with artificial intelligence
-    interests: web dev, ui/ux, ai/ml, app dev
-    currently: building side projects between assignments
+📖 studying: computer science with artificial intelligence  
+💜 interests: web dev, ui/ux, ai/ml, app dev  
+🌙 currently: building side projects between assignments  
+✨ always: chasing vibes, ideas, and a little chaos
 ```
 
 ---
