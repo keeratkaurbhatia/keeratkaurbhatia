@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Header with dreamy aesthetic -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=hi,%20i'm%20keerat%20🌙&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✧%20living%20in%20purple%20dreams%20and%20caffeine%20✧&descAlignY=55&descSize=18"/>
+<!-- Header with purple aesthetic -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9&height=200&section=header&text=hi,%20i'm%20keerat%20🌙&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✧%20dreaming%20in%20algorithms%20and%20stardust%20✧&descAlignY=55&descSize=18"/>
 
 </div>
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson+Text&weight=600&size=24&pause=1000&color=C2B3FF&center=true&vCenter=true&width=600&lines=2nd+year+engineering+student+✧;curious+mind+building+side+projects+✧;debugging+life+and+code+along+the+way+✧;sometimes+i+push+code%2C+sometimes+luck+✧)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson+Text&weight=600&size=24&pause=1000&color=C2B3FF&center=true&vCenter=true&width=600&lines=2nd+year+engineering+student+✧;weaving+dreams+into+digital+reality+✧;debugging+life+and+code+along+the+way+✧)
 
 </div>
 
@@ -15,9 +15,9 @@
 
 <div align="center">
 
-### ✦ about this dreamy corner ✦
+### ✧ my little corner of the internet ✧
 
-*where code meets poetry and bugs become features* 
+*where midnight code sessions turn into morning poetry*
 
 </div>
 
@@ -58,52 +58,6 @@
 
 ✦ ✧ 🌙 ✧ ✦
 
-> *sometimes you just vibe with one song and let it stay* 🌌
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 ✧ tech stack & vibes ✧
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=2b1f3f)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=2b1f3f)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=2b1f3f)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=2b1f3f)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=2b1f3f)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&color=2b1f3f)
-
-```css
-.my-coding-aesthetic {
-    background: linear-gradient(135deg, #dreams, #caffeine);
-    border-radius: 15px;
-    box-shadow: 0 10px 30px rgba(magic, 0.3);
-    overflow: hidden;
-    transform: perspective(1000px) rotateX(aesthetic);
-}
-```
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ ✧ currently manifesting ✧
-
-```javascript
-const currentGoals = {
-    learning: ["advanced react patterns", "node.js backend", "ui/ux principles"],
-    building: ["personal portfolio", "cool side projects", "aesthetic readmes"],
-    vibing: ["lo-fi hip hop", "late night coding", "purple aesthetics"],
-    seeking: ["internship opportunities", "collaboration", "creative projects"]
-}
-
-// TODO: build something that makes people go "whoa" ✨
-```
-
 </div>
 
 ---
@@ -122,6 +76,6 @@ const currentGoals = {
 
 *✧ woven with midnight inspiration and cosmic curiosity ✧*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9&height=100&section=footer&animation=twinkling"/>
 
 </div>
