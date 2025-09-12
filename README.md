@@ -1,57 +1,118 @@
-<h1 align="center" style="font-family:'Courier New', Courier, monospace; color:#fff; background-color:#2b1f3f; padding:20px; border-radius:28px; box-shadow:0 12px 35px rgba(150,120,255,0.5);">
-hi, i’m keerat 🌙
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=E0D7FF&center=true&vCenter=true&width=450&lines=2nd+year+engineering+student;curious+mind+|+building+side+projects;debugging+life+and+code+along+the+way" />
-</p>
----
+<!-- Header with dreamy aesthetic -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=hi,%20i'm%20keerat%20🌙&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✧%20living%20in%20purple%20dreams%20and%20caffeine%20✧&descAlignY=55&descSize=18"/>
 
-### 📊 github aura
-<p align="center" style="display:flex; justify-content:center; gap:12px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=keeratkaurbhatia&show_icons=true&theme=dark&hide_border=true" height="160" style="border-radius:12px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=keeratkaurbhatia&theme=dark&hide_border=true" height="160" style="border-radius:12px;"/>
-</p>
+</div>
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson+Text&weight=600&size=24&pause=1000&color=C2B3FF&center=true&vCenter=true&width=600&lines=2nd+year+engineering+student+✧;curious+mind+building+side+projects+✧;debugging+life+and+code+along+the+way+✧;sometimes+i+push+code%2C+sometimes+luck+✧)
+
+</div>
 
 ---
 
-### 🎶 current vibe
-<p align="center" style="font-family:'Courier New', Courier, monospace; color:#e0d7ff; max-width:420px; background-color:#2b1f3f; padding:24px; border-radius:28px; box-shadow:0 12px 35px rgba(150,120,255,0.5); position:relative;">
-<span style="font-size:1.3rem;">“just me, my laptop, and this track.</span><br/>
-</p>
+<div align="center">
 
-<p align="center" style="margin-top:16px;">
-  <a href="https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-</p>
+### ✦ about this dreamy corner ✦
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="130" style="border-radius:16px; margin-right:-30px;"/>
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="130" style="border-radius:16px; margin-left:-30px;"/>
-</p>
+*where code meets poetry and bugs become features* 
 
+</div>
 
-<p align="center" style="margin-top:16px;">
-  <!-- Stars & moon accents for extra Tumblr mood -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/White_star_icon.svg" width="18" style="margin-right:4px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/White_star_icon.svg" width="18" style="margin-right:4px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Full_Moon_Luc_Viatour.jpg/120px-Full_Moon_Luc_Viatour.jpg" width="20" style="border-radius:50%; margin-right:4px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/White_star_icon.svg" width="18"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/White_star_icon.svg" width="18" style="margin-left:4px;"/>
-</p>
+```
+              ✧･ﾟ: *✧･ﾟ:* currently vibing with *:･ﾟ✧*:･ﾟ✧
+                    
+    📚 studying: computer engineering (2nd year)
+    💜 interests: web dev, ui/ux, late night coding sessions
+    🌙 currently: building side projects between assignments
+    ☕ fuel: coffee and lo-fi playlists
+    ✨ motto: "debug the world, one line at a time"
+```
 
-<p align="center" style="font-style: italic; color:#c2b3ff; max-width:380px; line-height:1.5; margin-top:14px; background-color:#3a2a50; padding:16px; border-radius:20px; box-shadow:0 10px 25px rgba(150,120,255,0.35);">
-sometimes you just vibe with one song and let it stay 🌌
-</p>
+<div align="center">
 
 ---
 
-<p align="center">
-  <!-- Mood GIF for final scroll effect -->
-  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="250" style="border-radius:16px; box-shadow:0 12px 25px rgba(224,215,255,0.4);"/>
-</p>
+### 📊 ✧ github aura ✧
 
-<p align="center" style="font-style: italic; color:#d0c0ff; max-width:350px; line-height:1.5; background-color:#3a2a50; padding:12px; border-radius:16px; box-shadow:0 8px 20px rgba(150,120,255,0.25);">
-sometimes i push code, sometimes i just push my luck.
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=keeratkaurbhatia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a0d2e&title_color=e8dff0&text_color=d0c0ff&icon_color=c2b3ff&border_radius=15" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=keeratkaurbhatia&theme=tokyonight&hide_border=true&background=1a0d2e&ring=c2b3ff&fire=e8dff0&currStreakLabel=d0c0ff&sideLabels=e8dff0&currStreakNum=f0e6ff&sideNums=c2b3ff&border_radius=15" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keeratkaurbhatia&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a0d2e&title_color=e8dff0&text_color=d0c0ff&border_radius=15" width="400"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎶 ✧ current vibe ✧
+
+*"just me, my laptop, and this track."*
+
+[![Spotify](https://img.shields.io/badge/Play%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=2b1f3f)](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV)
+
+<img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="130"/> <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="130"/>
+
+✦ ✧ 🌙 ✧ ✦
+
+> *sometimes you just vibe with one song and let it stay* 🌌
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 ✧ tech stack & vibes ✧
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=2b1f3f)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=2b1f3f)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=2b1f3f)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=2b1f3f)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=2b1f3f)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&color=2b1f3f)
+
+```css
+.my-coding-aesthetic {
+    background: linear-gradient(135deg, #dreams, #caffeine);
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(magic, 0.3);
+    overflow: hidden;
+    transform: perspective(1000px) rotateX(aesthetic);
+}
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ ✧ currently manifesting ✧
+
+```javascript
+const currentGoals = {
+    learning: ["advanced react patterns", "node.js backend", "ui/ux principles"],
+    building: ["personal portfolio", "cool side projects", "aesthetic readmes"],
+    vibing: ["lo-fi hip hop", "late night coding", "purple aesthetics"],
+    seeking: ["internship opportunities", "collaboration", "creative projects"]
+}
+
+// TODO: build something that makes people go "whoa" ✨
+```
+
+</div>
+
+---
+
+
+<div align="center">
+
+*✦ built with love, caffeine, and way too many stackoverflow tabs ✦*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling"/>
+
+</div>
