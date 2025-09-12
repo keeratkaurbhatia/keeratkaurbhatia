@@ -31,10 +31,11 @@
 
 <div align="center">
 ✧ manifesting ✧
-javascriptconst currentGoals = {
-    learning: ["backend development", "dsa", "ui/ux principles"],
-    building: ["cool side projects", "aesthetic readmes"],
-    seeking: ["internship opportunities", "collaboration", "creative projects"]
+```javascript
+const currentGoals = {
+  learning: ["backend dev", "dsa", "ui/ux principles"],
+  building: ["cool side projects", "aesthetic readmes"],
+  seeking: ["internship opportunities", "collaboration", "creative projects"]
 }
 
 // TODO: build something that makes people go "whoa" ✨
