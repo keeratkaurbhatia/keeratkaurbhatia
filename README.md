@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header with purple aesthetic -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=hi,%20i'm%20keerat%20🌙&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✧%20dreaming%20in%20algorithms%20and%20stardust%20✧&descAlignY=55&descSize=18&theme=jolly"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=hi,%20i'm%20keerat%20🌙&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=✧%20dreaming%20in%20algorithms%20and%20stardust%20✧&descAlignY=55&descSize=18&theme=jolly"/>
 
 </div>
 
