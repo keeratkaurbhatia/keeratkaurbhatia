@@ -10,16 +10,22 @@
 
 ### 📊
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dracula&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=dracula&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=keeratkaurbhatia&show_icons=true&theme=dracula&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=keeratkaurbhatiae&theme=dracula&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ### 🎶
 <p align="center">
-  <a href="YourSpotifySongLinkHere">
-    <img src="https://img.shields.io/badge/on_repeat-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <a href="https://open.spotify.com/track/4puSh0J6v5duL7QmYV2jvn" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b2739d7f83b85ff994e94c88f5a3" width="200" style="border-radius:12px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/track/4puSh0J6v5duL7QmYV2jvn">
+    <img src="https://img.shields.io/badge/Play%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
 
@@ -29,4 +35,4 @@
   <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="250"/>
 </p>
 
-<p align="center"><i>“sometimes i push code, sometimes i just push my luck.”</i></p>
+<p align="center"><i>sometimes i push code, sometimes i just push my luck.</i></p>
