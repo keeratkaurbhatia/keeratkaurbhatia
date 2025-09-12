@@ -17,14 +17,13 @@
 
 ### ✧ my little corner ✧
 
-*commits, experiments, and a little chaos*
 
 </div>
 
 ```              
-    📚 studying: computer science with artificial intelligence
-    💜 interests: web dev, ui/ux, ai/ml, app dev
-    🌙 currently: building side projects between assignments
+    studying: computer science with artificial intelligence
+    interests: web dev, ui/ux, ai/ml, app dev
+    currently: building side projects between assignments
 ```
 
 ---
