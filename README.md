@@ -68,11 +68,11 @@ const currentGoals = {
 
 [![Spotify](https://img.shields.io/badge/Play%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=2b1f3f)](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV)
 
-<img src="https://media.giphy.com/media/3ohc0Z53nR5BzDkqv2/giphy.gif" width="120"/>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI0bnAydXNpd2NsZ3B0aXp6YmM4aWlpZ3NmNW1vYnR0cGhvd3IwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/igaw7wi3y2hFy8wKwI/giphy.gif" width="120"/>
-<img src="https://64.media.tumblr.com/f86b0f2fae3244ec72440637707bfa47/2c2260b990a57ad4-f6/s400x600/f374c92b8282899267ce7ccdc66c9817dcdc4b83.gifv" width="120"/>
-<img src="https://media.giphy.com/media/26xBs4o44j7Xb6QWg/giphy.gif" width="120"/>
-✦ ✧ 🌙 ✧ ✦
+<img src="https://i.pinimg.com/originals/35/4d/a2/354da2ba2d71190bbd4183f27123e80f.gif" width="120" height = "120"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI0bnAydXNpd2NsZ3B0aXp6YmM4aWlpZ3NmNW1vYnR0cGhvd3IwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/igaw7wi3y2hFy8wKwI/giphy.gif" width="120" height = "120"/>
+<img src="https://64.media.tumblr.com/f86b0f2fae3244ec72440637707bfa47/2c2260b990a57ad4-f6/s400x600/f374c92b8282899267ce7ccdc66c9817dcdc4b83.gifv" width="120" height = "120"/>
+<img src="https://media.tenor.com/KzB8LuoTL5QAAAAM/the-purple-moon.gif" width="120" height = "120"/>
+
 
 </div>
 
