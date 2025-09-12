@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header with purple aesthetic -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=hi,%20i'm%20keerat🌙&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&theme=jolly"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=hi,%20i'm%20keerat🌙&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignX=50&fontAlignY=35&theme=jolly"/>
 
 </div>
 
@@ -32,7 +32,8 @@
 <div align="center">
 
 ### ✧ manifesting ✧
-'''javascript
+```
+javascript
 const currentGoals = {
   learning: ["backend dev", "dsa", "ui/ux principles"],
   building: ["cool side projects", "aesthetic readmes"],
@@ -40,11 +41,11 @@ const currentGoals = {
 }
 
 // TODO: build something that makes people go "whoa" ✨
+```
 </div>
 
-
-<div align="center">
 ---
+<div align="center">
 
 ### 📊 ✧ github aura ✧
 
@@ -66,7 +67,7 @@ const currentGoals = {
 [![Spotify](https://img.shields.io/badge/Play%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=2b1f3f)](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV)
 
 <img src="https://media.giphy.com/media/3ohc0Z53nR5BzDkqv2/giphy.gif" width="120"/>
-<img src="https://media.giphy.com/media/l4JyOCNEfXvVYEqB2/giphy.gif" width="120"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI0bnAydXNpd2NsZ3B0aXp6YmM4aWlpZ3NmNW1vYnR0cGhvd3IwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/igaw7wi3y2hFy8wKwI/giphy.gif" width="120"/>
 <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="120"/>
 <img src="https://media.giphy.com/media/26xBs4o44j7Xb6QWg/giphy.gif" width="120"/>
 ✦ ✧ 🌙 ✧ ✦
