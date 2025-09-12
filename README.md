@@ -108,10 +108,25 @@ const currentGoals = {
 
 ---
 
+<div align="center">
+
+### 🌙 ✧ connect with this dreamy soul ✧
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&color=2b1f3f)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=2b1f3f)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=2b1f3f)](mailto:your.email@gmail.com)
+
+<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="250"/>
+
+> *crafting digital dreams one commit at a time* ✧
+
+</div>
+
+---
 
 <div align="center">
 
-*✦ built with love, caffeine, and way too many stackoverflow tabs ✦*
+*✧ made with starlight and endless curiosity ✧*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling"/>
 
