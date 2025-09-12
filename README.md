@@ -49,7 +49,7 @@ const currentGoals = {
 ---
 <div align="center">
 
-### 📊 ✧ github aura ✧
+### ✧ github aura farming ✧
 
 <img src="https://github-readme-stats.vercel.app/api?username=keeratkaurbhatia&show_icons=true&theme=jolly&hide_border=true&bg_color=1a0d2e&title_color=e8dff0&text_color=d0c0ff&icon_color=c2b3ff&border_radius=15" height="170"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=keeratkaurbhatia&theme=jolly&hide_border=true&background=1a0d2e&ring=c2b3ff&fire=e8dff0&currStreakLabel=d0c0ff&sideLabels=e8dff0&currStreakNum=f0e6ff&sideNums=c2b3ff&border_radius=15" height="170"/>
@@ -62,9 +62,9 @@ const currentGoals = {
 
 <div align="center">
 
-### 🎶 ✧ current vibe ✧
+### ✧ current vibe ✧
 
-*"just me, my laptop, and this track."*
+*just me, my laptop, and this track.*
 
 [![Spotify](https://img.shields.io/badge/Play%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=2b1f3f)](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV)
 
