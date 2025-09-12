@@ -76,6 +76,6 @@
 
 *✧ woven with midnight inspiration and cosmic curiosity ✧*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=100&section=footer&animation=twinkling"/>
 
 </div>
