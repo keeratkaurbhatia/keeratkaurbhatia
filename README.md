@@ -18,13 +18,13 @@
 
 ### 🎶
 <p align="center">
-  <a href="https://open.spotify.com/track/4puSh0J6v5duL7QmYV2jvn" target="_blank">
+  <a href="https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV" target="_blank">
     <img src="https://i.scdn.co/image/ab67616d0000b2739d7f83b85ff994e94c88f5a3" width="200" style="border-radius:12px"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/4puSh0J6v5duL7QmYV2jvn">
+  <a href="https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV">
     <img src="https://img.shields.io/badge/Play%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
