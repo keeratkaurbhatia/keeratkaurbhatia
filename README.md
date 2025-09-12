@@ -30,8 +30,9 @@
 
 
 <div align="center">
-✧ manifesting ✧
-```javascript
+
+### ✧ manifesting ✧
+'''javascript
 const currentGoals = {
   learning: ["backend dev", "dsa", "ui/ux principles"],
   building: ["cool side projects", "aesthetic readmes"],
@@ -40,6 +41,8 @@ const currentGoals = {
 
 // TODO: build something that makes people go "whoa" ✨
 </div>
+
+
 <div align="center">
 ---
 
@@ -62,8 +65,10 @@ const currentGoals = {
 
 [![Spotify](https://img.shields.io/badge/Play%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=2b1f3f)](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV)
 
-<img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="130"/> <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="130"/>
-
+<img src="https://media.giphy.com/media/3ohc0Z53nR5BzDkqv2/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/l4JyOCNEfXvVYEqB2/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/26xBs4o44j7Xb6QWg/giphy.gif" width="120"/>
 ✦ ✧ 🌙 ✧ ✦
 
 </div>
