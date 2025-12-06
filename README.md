@@ -54,7 +54,6 @@ const currentGoals = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=keeratkaurbhatia&theme=jolly&hide_border=true&background=1a0d2e&ring=c2b3ff&fire=e8dff0&currStreakLabel=d0c0ff&sideLabels=e8dff0&currStreakNum=f0e6ff&sideNums=c2b3ff&border_radius=15" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keeratkaurbhatia&layout=compact&theme=jolly&hide_border=true&bg_color=1a0d2e&title_color=e8dff0&text_color=d0c0ff&border_radius=15" />
 
 </div>
 
